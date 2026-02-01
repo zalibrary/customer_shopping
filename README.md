@@ -41,6 +41,10 @@ and to support data visualization and dashboard creation in Power BI.
 - Grouping by gender & age-related patterns
 - Discount and promo code checks
 
+## Dashboard Preview
+![Dashboard](https://github.com/zalibrary/HR-Analytics-PowerBI/blob/main/dashboard/HR%20Report-1.png)
+![Dashboard](https://github.com/zalibrary/HR-Analytics-PowerBI/blob/main/dashboard/HR%20Report-2.png)
+
 
 **Notes:**
 - The dataset is used for learning and portfolio purposes.
