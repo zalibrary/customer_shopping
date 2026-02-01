@@ -42,8 +42,7 @@ and to support data visualization and dashboard creation in Power BI.
 - Discount and promo code checks
 
 ## Dashboard Preview
-![Dashboard](https://github.com/zalibrary/HR-Analytics-PowerBI/blob/main/dashboard/HR%20Report-1.png)
-![Dashboard](https://github.com/zalibrary/HR-Analytics-PowerBI/blob/main/dashboard/HR%20Report-2.png)
+![Dashboard](https://github.com/zalibrary/customer_shopping/blob/main/dashboard/Dashboard_Customer%20behavior_page-0001.jpg)
 
 
 **Notes:**
